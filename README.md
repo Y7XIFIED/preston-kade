@@ -32,95 +32,22 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 Preston Kade/
-├── .github
-│   └── workflows
-│       └── ci.yml
-├── .gitignore
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── bun.lock
-├── components.json
-├── eslint.config.js
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── public
-│   └── sw.js
-├── README.md
-├── scripts
-│   └── perf-budget.cjs
-├── src
-│   ├── App.css
-│   ├── App.tsx
-│   ├── assets
-│   │   ├── project-2.jpg
-│   │   ├── project-3.jpg
-│   │   ├── project-4.jpg
-│   │   ├── project-5.jpg
-│   │   └── project-6.jpg
-│   ├── components
-│   │   ├── AboutSection.tsx
-│   │   ├── BackToTop.tsx
-│   │   ├── BlogSection.tsx
-│   │   ├── ContactSection.tsx
-│   │   ├── CoreUXLayer.tsx
-│   │   ├── ExperienceSection.tsx
-│   │   ├── ExtendedSections.tsx
-│   │   ├── GlobalFX.tsx
-│   │   ├── HeroSection.tsx
-│   │   ├── LoadingScreen.tsx
-│   │   ├── MagneticButton.tsx
-│   │   ├── MarqueeText.tsx
-│   │   ├── NavLink.tsx
-│   │   ├── NoiseOverlay.tsx
-│   │   ├── PortfolioFooter.tsx
-│   │   ├── PortfolioNavbar.tsx
-│   │   ├── ProgressDots.tsx
-│   │   ├── ProjectModal.tsx
-│   │   ├── ScrollReveal.tsx
-│   │   ├── ServicesSection.tsx
-│   │   ├── SkillsSection.tsx
-│   │   ├── StatsSection.tsx
-│   │   ├── TestimonialsSection.tsx
-│   │   ├── ui
-│   │   └── WorkSection.tsx
-│   ├── hooks
-│   │   ├── use-mobile.tsx
-│   │   └── use-toast.ts
-│   ├── index.css
-│   ├── lib
-│   │   ├── analytics.ts
-│   │   └── utils.ts
-│   ├── main.tsx
-│   ├── pages
-│   │   ├── Index.tsx
-│   │   └── NotFound.tsx
-│   ├── test
-│   │   ├── example.test.ts
-│   │   └── setup.ts
-│   └── vite-env.d.ts
-├── tailwind.config.ts
-├── tsconfig.app.json
-├── tsconfig.json
-├── tsconfig.node.json
-├── tsconfig.node.tsbuildinfo
-├── vite.config.ts
-└── vitest.config.ts
+├── .github/
+│   └── workflows/
+├── .vercel/
+├── assets/
+├── font/
+│   └── termina-test/
+├── public/
+├── scripts/
+└── src/
+    ├── assets/
+    ├── components/
+    │   └── ui/
+    ├── hooks/
+    ├── lib/
+    ├── pages/
+    └── test/
 ```
 
 ## 💻 Tech Stack
