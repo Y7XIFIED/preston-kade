@@ -1,40 +1,9 @@
-# Preston Kade
+﻿<h3 align="center"><b>PRESTON KADE</b></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" /></p>
 
-Motion-first portfolio experience built for bold storytelling.
+Welcome to **Preston Kade**! This is a fun and engaging project built to provide an amazing experience!
 
-![Build](https://img.shields.io/badge/build-passing-22c55e?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-0f172a?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-2563eb?style=flat-square)
+## ðŸš€ Live Website
+Experience the fully interactive website live here: https://preston-kade.vercel.app
 
-## Features
-
-- Cinematic, responsive single-page portfolio
-- Smooth motion layers powered by modern React animation tooling
-- Reusable UI primitives with Tailwind + shadcn foundations
-- Production-ready Vite build pipeline
-
-## Installation
-
-```bash
-npm install
-```
-
-## Usage
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
-## Live Demo
-
-- https://preston-kade.vercel.app
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE).
+<div align="center"><p>Y7XIFIED</p></div>
