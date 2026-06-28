@@ -30,25 +30,30 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-Preston Kade/
-├── .github/
-│   └── workflows/
-├── .vercel/
-├── assets/
-├── font/
-│   └── termina-test/
-├── public/
-├── scripts/
-└── src/
-    ├── assets/
-    ├── components/
-    │   └── ui/
-    ├── hooks/
-    ├── lib/
-    ├── pages/
-    └── test/
-```
+
+- 📁 **.github/**
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **font/**
+- 📁 **public/**
+- 📁 **scripts/**
+- 📁 **src/**
+- 📄 `.gitignore`
+- 📄 `bun.lock`
+- 📄 `components.json`
+- 📄 `eslint.config.js`
+- 📄 `index.html`
+- 📄 `package-lock.json`
+- 📄 `package.json`
+- 📄 `postcss.config.js`
+- 📄 `README.md`
+- 📄 `tailwind.config.ts`
+- 📄 `tsconfig.app.json`
+- 📄 `tsconfig.json`
+- 📄 `tsconfig.node.json`
+- 📄 `tsconfig.node.tsbuildinfo`
+- 📄 `vite.config.ts`
+- 📄 `vitest.config.ts`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
